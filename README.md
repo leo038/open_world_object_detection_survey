@@ -1,0 +1,2 @@
+# open_world_object_detection_survey
+开放世界目标检测工作汇总。
